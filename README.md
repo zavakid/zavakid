@@ -6,7 +6,7 @@
 
 - 经历：移动中间件/架构 | 数据驱动/用户增长设施 | 业务系统 | 后端中间件/架构
   - 喜欢折腾各种编程语言，注重软件架构、工程与代码质量，追求工程美。
-  - 2009年加入阿里巴巴，就职期间:
+  - 就职阿里巴巴，就职期间:
     - 目前在[淘系架构](https://github.com/zavakid/zavakid/blob/master/we-are-hiring.md#-%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC--%E6%B7%98%E5%AE%9D%E6%9E%B6%E6%9E%84%E4%B8%8E%E5%9F%BA%E7%A1%80%E6%9C%8D%E5%8A%A1%E5%9B%A2%E9%98%9F) ，负责移动基础中间件相关产品
     - 推动 [淘宝`Reactive`架构升级](https://www.infoq.cn/article/P1S7UOYH-pQZWa53zSJL)
     - 负责过 阿里分布式跟踪系统`EagleEye`
