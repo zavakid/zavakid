@@ -4,7 +4,7 @@
 
 自荐/内推可加我（请注明 **招聘**）
 
-- 微信： `zavakid`；钉钉： `mgs9ip2`
+- 微信： `zavakid`；钉钉： `zavakid`
 - 邮件我： `zava.kid+hire@gmail.com`
 
 --------------------
