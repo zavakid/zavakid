@@ -16,6 +16,6 @@
     - [架构师峰会(ArchSummit)明星讲师](https://archsummit.infoq.cn/2019/shenzhen)
     - [DDD China 讲师](https://github.com/DDD-China/DDD-China-2018)
   - 开源
-    - [sbt-one-log](https://github.com/CSUG/sbt-one-log)
+    - [sbt-one-log](https://github.com/foldright/sbt-one-log)
     - [Canal](https://github.com/alibaba/canal) 核心开发者之一
     - [Otter](https://github.com/alibaba/otter) 核心开发者之一
